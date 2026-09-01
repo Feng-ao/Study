@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main()
 {
-    printf("%d\n",25+66);
+    printf("25+66=%d\n",25+66);
     return 0;
 }
