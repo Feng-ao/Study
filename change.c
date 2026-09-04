@@ -7,5 +7,5 @@ int main()
     scanf("%d",&price);
     
     int change = 100 - price;
-    prinftf("找您%d元。\n",change);
+    printf("找您%d元。\n",change);
 }
