@@ -3,5 +3,13 @@ int main()
 {
     const int AMOUNT = 100;
     int price = 0;
-    printf("è¯·è¾“å…¥é‡‘é¢ï¼ˆå…ƒï¼‰ï¼š")ï¼›
+
+    printf("ÇëÊäÈë½ğ¶î£¨Ôª£©£º");
+    scanf("%d",&price);
+
+    int change = AMOUNT - price;
+
+    printf("ÕÒÄú%dÔª\n",change);
+    
+    return 0;
 }
