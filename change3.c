@@ -11,7 +11,7 @@ int main()
     scanf("%d",&amount);
 
     int change=amount-price;
-    printf("找您%d元",change);
-
+    printf("找您%d元。",change);
+    
     return 0;
 }
