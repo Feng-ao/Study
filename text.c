@@ -1,8 +1,7 @@
 #include <stdio.h>
 int main()
 {
-    printf("AAA\n");
-    printf("BBB\n");
+    printf("%d\n",10/3*3);
     
     return 0;
 
